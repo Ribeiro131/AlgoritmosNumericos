@@ -1,0 +1,1 @@
+Nesta versão,o cálculo de raízes com polinômios está dando problema.
